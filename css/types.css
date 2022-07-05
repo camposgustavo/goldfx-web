@@ -41,7 +41,7 @@ span.rock,
 span.ghost{
     padding: 4px 20px;
     color: white;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 1px 1px 1px #000000d0;
     border-radius: 3px;
 } 
 
